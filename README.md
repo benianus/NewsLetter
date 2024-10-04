@@ -8,4 +8,3 @@ UI: WinForms
 
 Architecture: 3 tie architecture
 
-Pattern: trying to apply publisher subscriber pattern using events feature in C#
